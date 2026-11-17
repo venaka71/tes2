@@ -4,7 +4,8 @@ import android.app.*;
 import android.content.*;
 import android.graphics.*;
 import android.os.*;
-import android.view.*;\nimport android.util.DisplayMetrics;
+import android.view.*;
+import android.util.DisplayMetrics;
 import android.widget.*;
 
 public class OverlayService extends Service {
